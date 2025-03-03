@@ -35,6 +35,12 @@ The tool generates two files:
 ## Future Enhancements
 Currently, the script can only work with CSV files, so increasing the support for other formats such as JSON will be important. Basic methods for filling in missing values (such as mean and mode) are currently used; however, more complex imputation methods will provide extended flexibility. On larger datasets, regarding memory usage: chunk processing implementation might improve efficiency. While the script supports basic analysis methods, it would go a long way in expanding its capabilities by integrating more advanced techniques, such as regression and clustering. Equally, there is no support for time series data, so adding tools for trend analysis and forecasting would be a valuable improvement. Lastly, the script cannot process text data; adding NLP features such as tokenization and sentiment analysis, possibly powered by AI, would open up new possibilities.
 
+## Support 🌟
+
+If you find this project helpful, please consider:
+- Giving it a star ⭐
+- [Buying me a coffee](https://buymeacoffee.com/uzayyildirim)
+
 ## Dependencies
 
 - pandas
